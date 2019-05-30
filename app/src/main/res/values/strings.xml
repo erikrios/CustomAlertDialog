@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Dialog</string>
+    <string name="tentang_aplikasi">TENTANG APLIKASI</string>
+    <string name="keluar">KELUAR</string>
+</resources>
